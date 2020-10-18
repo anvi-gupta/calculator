@@ -46,10 +46,9 @@
     }
     h1{
       text-align:center;
-       margin-left:43%;
-        width:60px;
+      margin: auto;
         height:60px;
         background-color:cyan;
-        border-radius:50%;
+        width: 100%;
       line-height:60px;
       }
